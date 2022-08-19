@@ -1,0 +1,17 @@
+.loginSite{
+    color: #000;
+}
+.loginSite a{
+    display: flex;
+    border: 1px solid #e0e0e2;
+    padding: 8px 15px;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+.loginSite a span{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.loginSite a span svg{margin-left: 0.5em;}
